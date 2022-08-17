@@ -99,6 +99,10 @@ local monster_list = {
   ["Apex Zinogre"] = true,
   ["Apex Arzuros"] = true,
   ["Apex Mizutsune"] = true,
+  ["Seething Bazelgeuse"] = true,
+  ["Silver Rathalos"] = true,
+  ["Gold Rathian"] = true,
+  ["Lucent Nargacuga"] = true,
 }
 
 local font = nil
